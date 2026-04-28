@@ -1,3 +1,5 @@
+<img width="746" height="562" alt="image" src="https://github.com/user-attachments/assets/8029e0d9-8180-4f6b-84f0-e4a551988487" />
+
 # 🛒 E-commerce AI Agent (NLP → SQL)
 
 This project is an AI-powered system that allows users to query a database using natural language.
